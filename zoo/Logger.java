@@ -14,6 +14,7 @@ public class Logger {
         this.animalName = animalName;
     }
     public void checkOutAnimal(){
+
         this.animalSpecies = animalSpecies;
     }
 
